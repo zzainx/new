@@ -1,6 +1,89 @@
-echo“#new”>> README.md 
-git init 
-git add README.md 
-git commit -m“first commit"
-git remote add origin https://github.com/zzainx/new.git
- git push -u origin master
+substitute [ˈsʌbstɪtju:t] 替换
+repository [rɪˈpɒzətri] 仓库
+hierarchy [ˈhaɪərɑ:ki] 层次
+Virtualization虚拟化 (资源管理)
+DNS(domain name system)域名系统
+   (domain name server)域名服务器
+FQDN(Full Qualified Domain Name ),完全合格的主机名
+IANA (Internet Assigned Numbers Authority)互联网数字分配机构
+CNNIC (China Network Information Center)中国互联网信息中心
+BIND (Berkeley Internet Name Domain)伯克利 Internet域名服务
+LDAP (Light Directory Access Protocol)轻量级目录访问协议
+NFS（Network File System）
+LVM (Logical Volume Manager)逻辑卷管理
+ACL — Access Control Lists
+Ps (processes snapshot)查看进程快照
+DHCP(Dynamic Host Configuration Protocol) 动态主机配置进程
+Terminal终端
+Monitor 监测
+Reply from [rɪˈplaɪ] [frəm] 应答
+encapsulation [in,kæpsju'leiʃən] 封装
+Next hop [nekst] [hɒp] 下一跳
+ip routing ['ru:tɪŋ] 路由(开启路由功能)
+no switchport [nəʊ] [swɪtʃ] [pɔ:t] 非交换机接口(开启路由接口模式)
+NAT network address translation 网络地址转换
+STP sponning tree protocol 生成树协议
+brief[bri:f]摘要
+priority[prai'ɒriti]优先
+VRRP (virtual router redundancy protocol)虚拟路由冗余协议 
+OSPF (Open Shortest Path First)开放式最短路径优先
+status['steitәs]n. 状态
+scale[skeil]比例
+hash [hæʃ] 切碎
+buffer [ˈbʌfə(r)] 缓冲器
+ache [kæʃ] 藏物处
+expire [ɪkˈspaɪə(r)] 过期、失效
+Flush [flʌʃ] 冲刷
+Session [ˈseʃn] 会议、会期
+Unpack [ˌʌnˈpæk] 拆包,从包中取出
+varnish [ˈvɑ:nɪʃ] 代理服务器软件
+repository [rɪˈpɒzətri] 仓库
+revision [rɪˈvɪʒn] 修订
+merge [mɜ:dʒ] 混合、合并
+expire[ik'spaiә]期满
+Proxy 代理
+temporary暂时的
+PSK previous share key  
+previous['pri:viәs]a. 早先的, 前面的, 过急的
+Revision 修订
+Checkout 检查 校验
+Merge 或者 合并
+Conflict 冲突
+Parameter 参数
+Stratum 阶层
+Strict 严格地
+Current 电流
+Issue 发行
+Enterprise 企业
+Format 格式
+Authentication 身份验证
+Passphrase密码;通行码;口令短语
+Chage 装载 指控
+Expire 期满 失效
+Reference 参考
+Encryption 加密
+algorithm[ˈælgərɪðəm] 算法,运算法则
+digest [daɪˈdʒest] 摘要
+secure [sɪˈkjʊə(r)] 安全
+privacy [ˈprɪvəsi] 隐私
+certificate [səˈtɪfɪkət] 证书
+authority [ɔ:ˈθɒrəti] 权威
+certificate authority(CA) [səˈtɪfɪkət] [ɔ:ˈθɒrəti] 证书颁发机构
+Binary [ˈbaɪnəri] 二进制
+Patch [pætʃ] 补丁
+Forward [ˈfɔ:wəd] (按新地址) 转寄、发送
+Filter [ˈfɪltə(r)] 过滤
+masquerade [ˌmæskəˈreɪd] 伪装
+Destination [ˌdestɪˈneɪʃn] 目标、目的
+Configuration [kənˌfɪgəˈreɪʃn] 配置、布局
+Template [ˈtempleɪt] 模板
+Item [ˈaɪtəm] 项目
+trigger [ˈtrɪgə(r)] 触发器
+Refresh [rɪˈfreʃ] 更新
+Icon [ˈaɪkɒn] 图标
+column [ˈkɒləm] 纵队、列
+Row [rəʊ] 排、行
+Establish [ɪˈstæblɪʃ] 建立、创建
+license['laisns]n. 执照, 许可证, 特许
+GPL general public license 
+Order by 排序  Ascend 上升   descend 下降
